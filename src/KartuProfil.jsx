@@ -3,7 +3,7 @@ export default function KartuProfil({ nama, npm, kelas, status }) {
     <section className="profile" aria-label="Profil Mahasiswa Praktikan">
       <div className="photo">
         <img
-          src="https://placehold.co/112x112"
+          src="https://tse4.mm.bing.net/th/id/OIP.dsi4540isIctvNCMvZKeawHaHi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
           alt="Foto profil"
           width="112"
           height="112"

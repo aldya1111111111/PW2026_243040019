@@ -14,15 +14,15 @@ const keahlian = [
 const matkul = [
   {
     kode: "IF211",
-    nama: "Pemrograman Web (React & Laravel)",
-    sks: 3,
-    jadwal: "Senin",
+    nama: "Pemrograman Web",
+    sks: 2,
+    jadwal: "Jumaat",
   },
   {
     kode: "IF212",
-    nama: "Sistem Basis Data (PostgreSQL)",
-    sks: 3,
-    jadwal: "Rabu",
+    nama: "Pratikum pemograman ii",
+    sks: 2,
+    jadwal: "selasa",
   },
 ];
 
@@ -33,15 +33,15 @@ export default function App() {
         <div className="hero-inner">
           <p className="hero-lab">Laboratorium Informatika</p>
           <h1>Praktikum Pemrograman Web</h1>
-          <p className="hero-sub">Modul 1: Pengenalan React JS &amp; Vite</p>
+          <p className="hero-sub"></p>
         </div>
       </header>
 
       <main className="content">
         <KartuProfil
-          nama="Mahasiswa Informatika"
-          npm="233040000"
-          kelas="IF Praktikum"
+          nama="Aldi Adriansyah"
+          npm="243040019"
+          kelas="Praktikum TIF"
           status="Aktif"
         />
 
