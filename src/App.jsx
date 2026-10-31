@@ -41,7 +41,7 @@ export default function App() {
         <KartuProfil
           nama="Aldi Adriansyah"
           npm="243040019"
-          kelas="Praktikum TIF"
+          kelas="Praktikum Web"
           status="Aktif"
         />
 
