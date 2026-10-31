@@ -5,10 +5,9 @@ import ItemMatkul from "./ItemMatkul";
 import ShowcasePortofolio from "./ShowcasePortofolio";
 
 const keahlian = [
-  { namaSkill: "JavaScript (ES6+)", level: "Mahir" },
+  { namaSkill: "Node.js", level: "Mahir" },
   { namaSkill: "React.js", level: "Menengah" },
-  { namaSkill: "HTML & CSS", level: "Mahir" },
-  { namaSkill: "Node.js", level: "Pemula" },
+  { namaSkill: "HTML & CSS", level: "Pemula" },
 ];
 
 const matkul = [
